@@ -54,8 +54,8 @@ image.api.playstation.com
 
 millenniumfalcon.rnps.dl.playstation.net
 
-ps5.np.playstation.net
-
+### PS5 Streaming ###
+#ps5.np.playstation.net
 
 ### PS5 System/Firmware Server ###
 
