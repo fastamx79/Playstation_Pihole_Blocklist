@@ -44,7 +44,7 @@ gaming-lounge.rnps.dl.playstation.net
 
 monte-carlo.rnps.dl.playstation.net
 
-ps5.np.playstation.net
+#ps5.np.playstation.net
 
 fus01.ps5.update.playstation.net
 
