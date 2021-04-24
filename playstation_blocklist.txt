@@ -58,5 +58,5 @@ ps5.np.playstation.net
 us.np.stun.playstation.net
 
 ### PS5 System/Firmware Server ###
-fus01.ps5.update.playstation.net
+#fus01.ps5.update.playstation.net
 
