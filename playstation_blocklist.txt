@@ -1,6 +1,6 @@
 fuk01.ps4.update.playstation.net
 
-post.net.playstation.net
+### post.net.playstation.net
 
 get.net.playstation.net
 
@@ -46,9 +46,9 @@ monte-carlo.rnps.dl.playstation.net
 
 search.rnps.dl.playstation.net
 
-profile.rnps.dl.playstation.net
+### profile.rnps.dl.playstation.net
 
-image.api.playstation.com
+### image.api.playstation.com
 
 millenniumfalcon.rnps.dl.playstation.net
 
@@ -58,5 +58,5 @@ ps5.np.playstation.net
 us.np.stun.playstation.net
 
 ### PS5 System/Firmware Server ###
-###fus01.ps5.update.playstation.net
+fus01.ps5.update.playstation.net
 
