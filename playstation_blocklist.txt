@@ -38,7 +38,7 @@ ps4-eb.ww.np.dl.playstation.net
 
 lfps-bc.rnps.dl.playstation.net
 
-trophy.rnps.dl.playstation.net
+### trophy.rnps.dl.playstation.net
 
 gaming-lounge.rnps.dl.playstation.net
 
@@ -52,9 +52,10 @@ search.rnps.dl.playstation.net
 
 millenniumfalcon.rnps.dl.playstation.net
 
-ps5.np.playstation.net
+### no idea what this is
+###ps5.np.playstation.net
 
-### PS5 Streaming ###
+### PS5 Streaming? ###
 us.np.stun.playstation.net
 
 ### PS5 System/Firmware Server ###
