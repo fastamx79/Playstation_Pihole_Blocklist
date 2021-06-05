@@ -52,7 +52,7 @@ search.rnps.dl.playstation.net
 
 millenniumfalcon.rnps.dl.playstation.net
 
-ps5.np.playstation.net
+### ps5.np.playstation.net
 
 ### PS5 Streaming? ###
 us.np.stun.playstation.net
