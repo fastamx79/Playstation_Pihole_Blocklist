@@ -36,13 +36,13 @@ ps4-eb.ww.np.dl.playstation.net
 
 ### FROM PS5
 
-lfps-bc.rnps.dl.playstation.net
+### lfps-bc.rnps.dl.playstation.net
 
 ### trophy.rnps.dl.playstation.net
 
-gaming-lounge.rnps.dl.playstation.net
+### gaming-lounge.rnps.dl.playstation.net
 
-monte-carlo.rnps.dl.playstation.net
+### monte-carlo.rnps.dl.playstation.net
 
 ### search.rnps.dl.playstation.net
 
