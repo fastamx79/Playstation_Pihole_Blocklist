@@ -1,8 +1,8 @@
 fuk01.ps4.update.playstation.net
 
-### post.net.playstation.net
+post.net.playstation.net
 
-### get.net.playstation.net
+get.net.playstation.net
 
 fus01.ps4.update.playstation.net
 
@@ -10,23 +10,23 @@ feu01.ps4.update.playstation.net
 
 deu01.ps4.update.playstation.net
 
-### tmdb.np.dl.playstation.net
+tmdb.np.dl.playstation.net
 
-### themis.dl.playstation.net
+themis.dl.playstation.net
 
-### sf.api.np.km.playstation.net
+sf.api.np.km.playstation.net
 
-### asm.np.community.playstation.net
+asm.np.community.playstation.net
 
-### artcdnsecure.ribob01.net
+artcdnsecure.ribob01.net
 
-### api-p014.ribob01.net
+api-p014.ribob01.net
 
-### apicdn-p014.ribob01.net
+apicdn-p014.ribob01.net
 
-### t-prof.np.community.playstation.net
+t-prof.np.community.playstation.net
 
-### ps4updptl.eu.np.community.playstation.net
+ps4updptl.eu.np.community.playstation.net
 
 ps4.updptl.sp-int.community.playstation.net
 
@@ -36,26 +36,26 @@ ps4-eb.ww.np.dl.playstation.net
 
 ### FROM PS5
 
-### lfps-bc.rnps.dl.playstation.net
+lfps-bc.rnps.dl.playstation.net
 
-### trophy.rnps.dl.playstation.net
+trophy.rnps.dl.playstation.net
 
-### gaming-lounge.rnps.dl.playstation.net
+gaming-lounge.rnps.dl.playstation.net
 
-### monte-carlo.rnps.dl.playstation.net
+monte-carlo.rnps.dl.playstation.net
 
-### search.rnps.dl.playstation.net
+search.rnps.dl.playstation.net
 
-### profile.rnps.dl.playstation.net
+profile.rnps.dl.playstation.net
 
-### image.api.playstation.com
+image.api.playstation.com
 
-### millenniumfalcon.rnps.dl.playstation.net
+millenniumfalcon.rnps.dl.playstation.net
 
-### ps5.np.playstation.net
+ps5.np.playstation.net
 
 ### PS5 Streaming? ###
-#us.np.stun.playstation.net
+us.np.stun.playstation.net
 
 ### PS5 System/Firmware Server ###
 fus01.ps5.update.playstation.net
